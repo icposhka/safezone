@@ -1,0 +1,2 @@
+# safezone
+safezone darkrp
